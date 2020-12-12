@@ -1,0 +1,3 @@
+ am writing a test file; fyi to close this text 
+box you have to type :x! then press enter only after you press 
+escape first esc + :x!
